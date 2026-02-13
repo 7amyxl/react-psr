@@ -17,7 +17,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>vite go pro</h1>
       <h2>{display}</h2>
       <Button countToDisplay={(count) => setDisplay(count)}/>
       <div className="card">
